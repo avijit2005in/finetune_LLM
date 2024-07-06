@@ -6,5 +6,7 @@ If it is a GitHub repository and you have administrative privileges, go to setti
 
 git remote show origin
 
-git remote set-url origin git+ssh://git@github.com:avijit2005in/finetune_LLM.git
+git remote set-url origin git@github.com:avijit2005in/finetune_LLM.git
+
+
 
